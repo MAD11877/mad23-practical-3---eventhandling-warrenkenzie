@@ -83,7 +83,8 @@
             android:background="#731288"
             android:text="@string/MESSAGE_btn"
             android:textColor="@color/white"
-            android:textOff="@string/MESSAGE_btn" />
+            android:textOff="@string/MESSAGE_btn"
+            android:textOn="@string/MESSAGE_btn" />
 
         <TextView
             android:id="@+id/textView"
